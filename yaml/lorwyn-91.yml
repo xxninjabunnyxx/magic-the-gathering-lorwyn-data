@@ -1,0 +1,117 @@
+---
+object: card
+id: aed908f4-630c-4f3c-9e61-4725b88b93ff
+oracle_id: 61251125-1379-43e9-8fb1-ce03ca399083
+multiverse_ids:
+- 139424
+mtgo_id: 28235
+mtgo_foil_id: 28236
+tcgplayer_id: 15642
+cardmarket_id: 17832
+name: Streambed Aquitects
+lang: en
+released_at: '2007-10-12'
+uri: https://api.scryfall.com/cards/aed908f4-630c-4f3c-9e61-4725b88b93ff
+scryfall_uri: https://scryfall.com/card/lrw/91/streambed-aquitects?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/e/aed908f4-630c-4f3c-9e61-4725b88b93ff.jpg?1562363407
+  normal: https://cards.scryfall.io/normal/front/a/e/aed908f4-630c-4f3c-9e61-4725b88b93ff.jpg?1562363407
+  large: https://cards.scryfall.io/large/front/a/e/aed908f4-630c-4f3c-9e61-4725b88b93ff.jpg?1562363407
+  png: https://cards.scryfall.io/png/front/a/e/aed908f4-630c-4f3c-9e61-4725b88b93ff.png?1562363407
+  art_crop: https://cards.scryfall.io/art_crop/front/a/e/aed908f4-630c-4f3c-9e61-4725b88b93ff.jpg?1562363407
+  border_crop: https://cards.scryfall.io/border_crop/front/a/e/aed908f4-630c-4f3c-9e61-4725b88b93ff.jpg?1562363407
+mana_cost: "{1}{U}{U}"
+cmc: 3.0
+type_line: Creature — Merfolk Scout
+oracle_text: |-
+  {T}: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)
+  {T}: Target land becomes an Island until end of turn.
+power: '2'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set: lrw
+set_name: Lorwyn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lrw?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/aed908f4-630c-4f3c-9e61-4725b88b93ff/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61251125-1379-43e9-8fb1-ce03ca399083&unique=prints
+collector_number: '91'
+digital: false
+rarity: common
+flavor_text: |-
+  "We look in the river and see scattered stones. A merrow looks and sees a map of Lorwyn."
+  —Illulia, flamekin soulstoke
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: William O'Connor
+artist_ids:
+- 4f1c2854-d7a8-4f9a-8b3d-72a16eb7bdc1
+illustration_id: 294866e5-1464-4537-a2de-85a76c83320e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10428
+penny_rank: 11710
+prices:
+  usd: '0.17'
+  usd_foil: '0.87'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.15'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139424
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Streambed+Aquitects&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Streambed+Aquitects&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Streambed+Aquitects
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15642?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Streambed+Aquitects&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/28235?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

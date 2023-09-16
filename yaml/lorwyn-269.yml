@@ -1,0 +1,116 @@
+---
+object: card
+id: 5c678643-6640-49e1-a5b0-2954123bcabc
+oracle_id: 463fc699-f4fc-4112-a6b3-6dcb642203e6
+multiverse_ids:
+- 139513
+mtgo_id: 28341
+mtgo_foil_id: 28342
+tcgplayer_id: 15529
+cardmarket_id: 18010
+name: Howltooth Hollow
+lang: en
+released_at: '2007-10-12'
+uri: https://api.scryfall.com/cards/5c678643-6640-49e1-a5b0-2954123bcabc
+scryfall_uri: https://scryfall.com/card/lrw/269/howltooth-hollow?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.jpg?1562349711
+  normal: https://cards.scryfall.io/normal/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.jpg?1562349711
+  large: https://cards.scryfall.io/large/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.jpg?1562349711
+  png: https://cards.scryfall.io/png/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.png?1562349711
+  art_crop: https://cards.scryfall.io/art_crop/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.jpg?1562349711
+  border_crop: https://cards.scryfall.io/border_crop/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.jpg?1562349711
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+  Howltooth Hollow enters the battlefield tapped.
+  {T}: Add {B}.
+  {B}, {T}: You may play the exiled card without paying its mana cost if each player has no cards in hand.
+colors: []
+color_identity:
+- B
+keywords:
+- Hideaway
+produced_mana:
+- B
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set: lrw
+set_name: Lorwyn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lrw?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5c678643-6640-49e1-a5b0-2954123bcabc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A463fc699-f4fc-4112-a6b3-6dcb642203e6&unique=prints
+collector_number: '269'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Howe (Lorwyn)
+artist_ids:
+- 9fa4339d-f3d4-4def-8115-166845f07048
+illustration_id: 8f0490b4-7b94-47ef-80d3-1623dc1f5139
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16068
+penny_rank: 2844
+prices:
+  usd: '0.50'
+  usd_foil: '4.46'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '2.40'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139513
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Howltooth+Hollow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Howltooth+Hollow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Howltooth+Hollow
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15529?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Howltooth+Hollow&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/28341?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

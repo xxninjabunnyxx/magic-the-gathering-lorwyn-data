@@ -1,0 +1,110 @@
+---
+object: card
+id: 97377416-35e8-4cf3-be1f-edc2ec3f6eb2
+oracle_id: ac2711b7-318d-478a-b69c-d44baff46f2d
+multiverse_ids:
+- 139506
+mtgo_id: 28329
+mtgo_foil_id: 28330
+tcgplayer_id: 15575
+cardmarket_id: 17999
+name: Moonglove Extract
+lang: en
+released_at: '2007-10-12'
+uri: https://api.scryfall.com/cards/97377416-35e8-4cf3-be1f-edc2ec3f6eb2
+scryfall_uri: https://scryfall.com/card/lrw/258/moonglove-extract?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/7/97377416-35e8-4cf3-be1f-edc2ec3f6eb2.jpg?1562359282
+  normal: https://cards.scryfall.io/normal/front/9/7/97377416-35e8-4cf3-be1f-edc2ec3f6eb2.jpg?1562359282
+  large: https://cards.scryfall.io/large/front/9/7/97377416-35e8-4cf3-be1f-edc2ec3f6eb2.jpg?1562359282
+  png: https://cards.scryfall.io/png/front/9/7/97377416-35e8-4cf3-be1f-edc2ec3f6eb2.png?1562359282
+  art_crop: https://cards.scryfall.io/art_crop/front/9/7/97377416-35e8-4cf3-be1f-edc2ec3f6eb2.jpg?1562359282
+  border_crop: https://cards.scryfall.io/border_crop/front/9/7/97377416-35e8-4cf3-be1f-edc2ec3f6eb2.jpg?1562359282
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: 'Sacrifice Moonglove Extract: It deals 2 damage to any target.'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set: lrw
+set_name: Lorwyn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lrw?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/97377416-35e8-4cf3-be1f-edc2ec3f6eb2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aac2711b7-318d-478a-b69c-d44baff46f2d&unique=prints
+collector_number: '258'
+digital: false
+rarity: common
+flavor_text: Diluted, moonglove can etch living tissue. Concentrated, a drop will
+  kill a giant.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 792021cf-b8fb-47f4-82b4-f7c9c742d6ee
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17024
+penny_rank: 9690
+prices:
+  usd: '0.11'
+  usd_foil: '0.53'
+  usd_etched: 
+  eur: '0.48'
+  eur_foil: '0.42'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139506
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Moonglove+Extract&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Moonglove+Extract&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Moonglove+Extract
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15575?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Moonglove+Extract&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/28329?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

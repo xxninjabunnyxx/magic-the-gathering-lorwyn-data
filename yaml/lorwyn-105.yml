@@ -1,0 +1,115 @@
+---
+object: card
+id: b870a7aa-0836-4e3e-8be9-3299bdaded81
+oracle_id: a549d54f-2640-455c-8a93-bef4df2f9e8b
+multiverse_ids:
+- 140171
+mtgo_id: 28435
+mtgo_foil_id: 28436
+tcgplayer_id: 15439
+cardmarket_id: 17846
+name: Cairn Wanderer
+lang: en
+released_at: '2007-10-12'
+uri: https://api.scryfall.com/cards/b870a7aa-0836-4e3e-8be9-3299bdaded81
+scryfall_uri: https://scryfall.com/card/lrw/105/cairn-wanderer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/8/b870a7aa-0836-4e3e-8be9-3299bdaded81.jpg?1562365018
+  normal: https://cards.scryfall.io/normal/front/b/8/b870a7aa-0836-4e3e-8be9-3299bdaded81.jpg?1562365018
+  large: https://cards.scryfall.io/large/front/b/8/b870a7aa-0836-4e3e-8be9-3299bdaded81.jpg?1562365018
+  png: https://cards.scryfall.io/png/front/b/8/b870a7aa-0836-4e3e-8be9-3299bdaded81.png?1562365018
+  art_crop: https://cards.scryfall.io/art_crop/front/b/8/b870a7aa-0836-4e3e-8be9-3299bdaded81.jpg?1562365018
+  border_crop: https://cards.scryfall.io/border_crop/front/b/8/b870a7aa-0836-4e3e-8be9-3299bdaded81.jpg?1562365018
+mana_cost: "{4}{B}"
+cmc: 5.0
+type_line: Creature — Shapeshifter
+oracle_text: |-
+  Changeling (This card is every creature type.)
+  As long as a creature card with flying is in a graveyard, Cairn Wanderer has flying. The same is true for fear, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, and vigilance.
+power: '4'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Changeling
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set: lrw
+set_name: Lorwyn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lrw?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b870a7aa-0836-4e3e-8be9-3299bdaded81/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa549d54f-2640-455c-8a93-bef4df2f9e8b&unique=prints
+collector_number: '105'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: ce69e1b8-d546-42db-a49b-408889f708d9
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7729
+penny_rank: 6856
+prices:
+  usd: '0.44'
+  usd_foil: '9.03'
+  usd_etched: 
+  eur: '0.63'
+  eur_foil: '0.40'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140171
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cairn+Wanderer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cairn+Wanderer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cairn+Wanderer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15439?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cairn+Wanderer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/28435?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

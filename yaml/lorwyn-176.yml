@@ -1,0 +1,129 @@
+---
+object: card
+id: 5f560199-7703-4e2a-8e2d-5728f6efef46
+oracle_id: be16e9d8-aa73-448b-919c-7d02e2e15911
+multiverse_ids:
+- 140164
+mtgo_id: 28431
+mtgo_foil_id: 28432
+tcgplayer_id: 15528
+cardmarket_id: 17917
+name: Hostility
+lang: en
+released_at: '2007-10-12'
+uri: https://api.scryfall.com/cards/5f560199-7703-4e2a-8e2d-5728f6efef46
+scryfall_uri: https://scryfall.com/card/lrw/176/hostility?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/f/5f560199-7703-4e2a-8e2d-5728f6efef46.jpg?1562350218
+  normal: https://cards.scryfall.io/normal/front/5/f/5f560199-7703-4e2a-8e2d-5728f6efef46.jpg?1562350218
+  large: https://cards.scryfall.io/large/front/5/f/5f560199-7703-4e2a-8e2d-5728f6efef46.jpg?1562350218
+  png: https://cards.scryfall.io/png/front/5/f/5f560199-7703-4e2a-8e2d-5728f6efef46.png?1562350218
+  art_crop: https://cards.scryfall.io/art_crop/front/5/f/5f560199-7703-4e2a-8e2d-5728f6efef46.jpg?1562350218
+  border_crop: https://cards.scryfall.io/border_crop/front/5/f/5f560199-7703-4e2a-8e2d-5728f6efef46.jpg?1562350218
+mana_cost: "{3}{R}{R}{R}"
+cmc: 6.0
+type_line: Creature — Elemental Incarnation
+oracle_text: |-
+  Haste
+  If a spell you control would deal damage to an opponent, prevent that damage. Create a 3/1 red Elemental Shaman creature token with haste for each 1 damage prevented this way.
+  When Hostility is put into a graveyard from anywhere, shuffle it into its owner's library.
+power: '6'
+toughness: '6'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Haste
+all_parts:
+- object: related_card
+  id: a280aee2-e15a-4625-b429-4032eae08a41
+  component: token
+  name: Elemental Shaman
+  type_line: Token Creature — Elemental Shaman
+  uri: https://api.scryfall.com/cards/a280aee2-e15a-4625-b429-4032eae08a41
+- object: related_card
+  id: 5f560199-7703-4e2a-8e2d-5728f6efef46
+  component: combo_piece
+  name: Hostility
+  type_line: Creature — Elemental Incarnation
+  uri: https://api.scryfall.com/cards/5f560199-7703-4e2a-8e2d-5728f6efef46
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set: lrw
+set_name: Lorwyn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lrw?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5f560199-7703-4e2a-8e2d-5728f6efef46/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abe16e9d8-aa73-448b-919c-7d02e2e15911&unique=prints
+collector_number: '176'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Omar Rayyan
+artist_ids:
+- 256b61a2-b9af-4ff5-b485-47a61818f818
+illustration_id: 8096ae04-f429-4ba3-bb5d-3bf9f8dafc46
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14191
+penny_rank: 5668
+prices:
+  usd: '0.27'
+  usd_foil: '1.73'
+  usd_etched: 
+  eur: '0.49'
+  eur_foil: '0.60'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140164
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hostility&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hostility&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hostility
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15528?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hostility&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/28431?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

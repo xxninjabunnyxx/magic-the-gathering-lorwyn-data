@@ -1,0 +1,112 @@
+---
+object: card
+id: bd836fe0-932c-4d5c-9a52-94fc423c3d57
+oracle_id: 05ac6e5c-b773-45ed-9c74-3cd4b05bc287
+multiverse_ids:
+- 139727
+mtgo_id: 28415
+mtgo_foil_id: 28416
+tcgplayer_id: 15459
+cardmarket_id: 17996
+name: Deathrender
+lang: en
+released_at: '2007-10-12'
+uri: https://api.scryfall.com/cards/bd836fe0-932c-4d5c-9a52-94fc423c3d57
+scryfall_uri: https://scryfall.com/card/lrw/255/deathrender?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/d/bd836fe0-932c-4d5c-9a52-94fc423c3d57.jpg?1562365592
+  normal: https://cards.scryfall.io/normal/front/b/d/bd836fe0-932c-4d5c-9a52-94fc423c3d57.jpg?1562365592
+  large: https://cards.scryfall.io/large/front/b/d/bd836fe0-932c-4d5c-9a52-94fc423c3d57.jpg?1562365592
+  png: https://cards.scryfall.io/png/front/b/d/bd836fe0-932c-4d5c-9a52-94fc423c3d57.png?1562365592
+  art_crop: https://cards.scryfall.io/art_crop/front/b/d/bd836fe0-932c-4d5c-9a52-94fc423c3d57.jpg?1562365592
+  border_crop: https://cards.scryfall.io/border_crop/front/b/d/bd836fe0-932c-4d5c-9a52-94fc423c3d57.jpg?1562365592
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact — Equipment
+oracle_text: |-
+  Equipped creature gets +2/+2.
+  Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.
+  Equip {2}
+colors: []
+color_identity: []
+keywords:
+- Equip
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set: lrw
+set_name: Lorwyn
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lrw?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bd836fe0-932c-4d5c-9a52-94fc423c3d57/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05ac6e5c-b773-45ed-9c74-3cd4b05bc287&unique=prints
+collector_number: '255'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Martina Pilcerova
+artist_ids:
+- 30fead7c-da53-4c1b-b514-4be6e5ce487c
+illustration_id: 8211f0dd-869d-481e-bf23-d2c28ea41cc6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7794
+penny_rank: 11989
+prices:
+  usd: '4.29'
+  usd_foil: '17.30'
+  usd_etched: 
+  eur: '1.00'
+  eur_foil: '4.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139727
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deathrender&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deathrender&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Deathrender
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15459?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deathrender&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/28415?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
